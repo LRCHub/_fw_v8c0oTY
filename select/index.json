@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "タッチ",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2026-02-07T06:54:22.138581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タッチ",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/01_タッチ_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タッチ",
+      "artist": "Number Girl",
+      "has_synced": true,
+      "path": "select/02_タッチ_Number_Girl.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "タッチ",
+      "artist": "Yoshimi Iwasaki",
+      "has_synced": true,
+      "path": "select/03_タッチ_Yoshimi_Iwasaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "タッチ",
+      "artist": "岩崎良美",
+      "has_synced": true,
+      "path": "select/04_タッチ_岩崎良美.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "タッチ",
+      "artist": "Yoshimi Iwasaki",
+      "has_synced": true,
+      "path": "select/05_タッチ_Yoshimi_Iwasaki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Touch the Hand = タッチ・ザ・ハンド",
+      "artist": "Bryan Adams",
+      "has_synced": false,
+      "path": "select/06_Touch_the_Hand_=_タッチ・ザ・ハンド_Bryan_Adams.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Touch the Hand = タッチ・ザ・ハンド",
+      "artist": "Adams, Bryan",
+      "has_synced": false,
+      "path": "select/07_Touch_the_Hand_=_タッチ・ザ・ハンド_Adams,_Bryan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "タッチ",
+      "artist": "岩崎良美・他",
+      "has_synced": true,
+      "path": "select/08_タッチ_岩崎良美・他.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "タッチ",
+      "artist": "ナンバーガール",
+      "has_synced": false,
+      "path": "select/09_タッチ_ナンバーガール.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "タッチ",
+      "artist": "岩崎良美",
+      "has_synced": true,
+      "path": "select/10_タッチ_岩崎良美.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "タッチ「タッチ」",
+      "artist": "岩崎良美",
+      "has_synced": false,
+      "path": "select/11_タッチ「タッチ」_岩崎良美.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "タッチ(21st century ver",
+      "artist": "岩崎良美",
+      "has_synced": true,
+      "path": "select/12_タッチ(21st_century_ver_岩崎良美.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "タッチ (21st century ver.)",
+      "artist": "岩崎良美",
+      "has_synced": false,
+      "path": "select/13_タッチ_(21st_century_ver.)_岩崎良美.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "タッチ・ユー,トゥナイト",
+      "artist": "八神純子",
+      "has_synced": false,
+      "path": "select/14_タッチ・ユー,トゥナイト_八神純子.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "タッチ",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/15_タッチ_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "タッチ",
+      "artist": "Number Girl",
+      "has_synced": true,
+      "path": "select/16_タッチ_Number_Girl.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タッチ",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_タッチ_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
